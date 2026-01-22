@@ -6,7 +6,8 @@ Movie_dataset
 1. Project Overview
    
 This project analyses movie data using Excel and Power BI to find success trends and improve production decisions.
-3. Tools Used
+
+2. Tools Used
    
 - Microsoft Excel 
 - Power BI 
